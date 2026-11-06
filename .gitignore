@@ -1,0 +1,15 @@
+# Large models and datasets
+*.zip
+*.part
+*.onnx
+pytorch_model.bin
+wavs/
+acoustic_features/
+alignment_test/
+pretrained_models/
+# Python and notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.env.*
