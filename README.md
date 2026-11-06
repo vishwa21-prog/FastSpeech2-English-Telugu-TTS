@@ -40,3 +40,7 @@ Training requires the exported audio, aligned acoustic features, and the custom 
 - FastSpeech 2: Ren et al., *FastSpeech 2: Fast and High-Quality End-to-End Text to Speech*.
 - Reference code: https://github.com/ming024/FastSpeech2
 - Meta MMS-TTS pretrained checkpoints: https://huggingface.co/facebook/mms-tts-eng and https://huggingface.co/facebook/mms-tts-tel
+
+## Notebook recovery and provenance
+
+During the final stages of experimentation, an unexpected Kaggle notebook crash/reload left parts of the previously executed training workflow unavailable in the recovered notebook. A project ZIP backup had been created, preserving available checkpoints, generated audio, training graphs, and other experimental artifacts. The recovered notebook does **not** represent the complete original execution history. The missing training cells should not be inferred from the checkpoints or figures, and any reconstructed code should be identified as such.
