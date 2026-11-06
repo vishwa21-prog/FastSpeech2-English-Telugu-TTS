@@ -28,7 +28,7 @@ These are **earlier experiments**, not the final working TTS system. Some cells 
 
 ## Saved notebook images
 
-Draft 2 contains seven embedded PNG outputs, from cells 29, 60, 64 (two images), 72, 73, and 82. These are preserved in the notebook and have also been extracted as separate image files in the downloadable archive.
+Draft 2 contains seven embedded PNG outputs, from cells 29, 60, 64 (two images), 72, 73, and 82. The original notebook outputs are preserved in the downloadable archive. For GitHub, the notebook has been saved without large outputs, and all seven PNG figures have been uploaded separately under `Draft/images/`.
 
 ## Feature checkpoint backup
 
