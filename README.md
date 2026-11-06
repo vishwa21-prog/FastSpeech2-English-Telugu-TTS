@@ -43,7 +43,7 @@ Training requires the exported audio, aligned acoustic features, and the custom 
 
 ## Earlier drafts
 
-Before preparing the final version, I used two draft notebooks to explore the English and Telugu datasets, test audio preprocessing and forced alignment, and experiment with FastSpeech 2-style model training and speech generation. Some attempts did not work as expected, but they helped me identify issues and improve the later implementation. I kept the drafts and their plots to show the development process. More details are in [Draft experiment notes](Draft/README.md).
+I developed two draft notebooks to understand the FastSpeech 2 architecture and test how its components work for English and Telugu speech synthesis. I explored the data pipeline, phoneme alignment, duration, pitch and energy features, model training, and audio generation. These experiments helped me study the architecture in practice and refine the approach for the final implementation. The notebooks and their plots are documented in [Draft experiment notes](Draft/README.md).
 
 ## Notebook recovery
 
