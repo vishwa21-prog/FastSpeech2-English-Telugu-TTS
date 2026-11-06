@@ -1,0 +1,13 @@
+torch
+numpy
+scipy
+librosa
+soundfile
+matplotlib
+pandas
+datasets
+huggingface_hub
+phonemizer
+pyworld
+ctc-forced-aligner==1.0.2
+transformers
