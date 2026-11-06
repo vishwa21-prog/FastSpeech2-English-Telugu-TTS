@@ -41,6 +41,10 @@ Training requires the exported audio, aligned acoustic features, and the custom 
 - Reference code: https://github.com/ming024/FastSpeech2
 - Meta MMS-TTS pretrained checkpoints: https://huggingface.co/facebook/mms-tts-eng and https://huggingface.co/facebook/mms-tts-tel
 
+## Earlier drafts
+
+Before preparing the final version, I used two draft notebooks to explore the English and Telugu datasets, test audio preprocessing and forced alignment, and experiment with FastSpeech 2-style model training and speech generation. Some attempts did not work as expected, but they helped me identify issues and improve the later implementation. I kept the drafts and their plots to show the development process. More details are in [Draft experiment notes](Draft/README.md).
+
 ## Notebook recovery
 
 Due to an unexpected Kaggle notebook crash, some of the original code and execution history were lost. Luckily, the project files, trained models, graphs, and audio results were saved in a backup ZIP. Most of the missing code was also recovered from the notebook history. The final notebook is being rebuilt using this recovered code, so some parts may differ from the original version.
